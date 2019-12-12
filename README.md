@@ -1,8 +1,8 @@
 # WNS Analytics Wizard 2019 Competition - Overview
 
-![title](img/ps_wns.png)
-![title](img/wns_img3.png)
-![title](img/wns_img1.png)
+![title](images/ps_wns.png)
+![title](images/wns_img3.png)
+![title](images/wns_img1.png)
 
 # Files
 * **WNS_solution_1.ipynb**: This notebook contains the solution that I submitted for the competition, it contains EDA, some preprocessing steps, and some model architecture approaches.
